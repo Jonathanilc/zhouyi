@@ -78,6 +78,8 @@ extra:
 extra_css:
   - assets/css/ui.css
   - https://gw.alipayobjects.com/os/k/font/lxgwwenkaiscreenr.css
+extra_javascript:
+  - assets/js/beauty-popup.js
 theme:
   name: material
   language: zh
