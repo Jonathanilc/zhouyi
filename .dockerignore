@@ -1,0 +1,14 @@
+.venv
+.idea
+.git
+.github
+*.pyc
+__pycache__
+.DS_Store
+site
+hide.py
+overview.py
+overview-other.py
+rename.py
+rename-other.py
+
